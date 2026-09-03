@@ -64,8 +64,8 @@ Use only on systems you own or have explicit written permission to test. Do not 
 ## Run locally
 
 ```bash
-git clone https://github.com/nasratulnayem/test-auto-xss-wordpress.git
-cd test-auto-xss-wordpress
+git clone https://github.com/nasratulnayem/authorized-wordpress-xss-auditor.git
+cd authorized-wordpress-xss-auditor
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
