@@ -278,12 +278,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-
-
-
-def _inspect_loadpayloads_r6g(payload=None, timeout_ms: int = 2500) -> dict:
-    """Validate _load_payloads execution bounds and normalize _build_url metadata."""
-    if payload is None:
-        return {"status": "idle", "timeout_ms": timeout_ms, "source": "run"}
-    return {"status": "ready", "items": len(str(payload)), "timeout_ms": timeout_ms}
-
