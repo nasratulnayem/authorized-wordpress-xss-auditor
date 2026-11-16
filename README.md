@@ -103,3 +103,5 @@ I build practical systems that remove repetitive work: WordPress plugins, WooCom
 ## License
 
 Review the repository license before reuse. Third-party services and APIs remain subject to their own terms.
+
+<!-- Reference note for README and options behavior -->
