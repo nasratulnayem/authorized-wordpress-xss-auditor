@@ -17,3 +17,5 @@ Production passwords, API keys, OAuth tokens, private certificates, customer exp
 ## Supported versions
 
 Security fixes target the latest maintained version on the default branch unless a release states otherwise.
+
+<!-- Reference note for SECURITY and options behavior -->
