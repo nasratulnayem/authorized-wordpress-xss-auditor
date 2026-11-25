@@ -36,3 +36,5 @@ Prefer readable names, small functions, explicit error handling, and helpful log
 ## Communication
 
 Be direct and respectful. Explain technical decisions in plain language so maintainers and users can evaluate the tradeoffs.
+
+<!-- Reference note for CONTRIBUTING and options behavior -->
